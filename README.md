@@ -1,0 +1,1 @@
+ResQnet is an All-India disaster relief coordination and information fusion platform inspired by National Disaster Management Authority (NDMA) protocols. It is designed to operate during severe natural disasters (floods, cyclones, earthquakes) when cellular data fails, field reports conflict, and rescue resources are scarce.
